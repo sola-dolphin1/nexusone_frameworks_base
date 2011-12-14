@@ -92,7 +92,7 @@ public abstract class HardwareRenderer {
      * 
      * @hide
      */
-    public static boolean sRendererDisabled = false;
+    public static boolean sRendererDisabled = true;
 
     /**
      * Further hardware renderer disabling for the system process.
